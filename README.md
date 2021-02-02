@@ -65,24 +65,24 @@ Click on the **lab01.exe** from the File Explorer.
 
 ## References
 
-Good place to learn OpenGL
+Good place to learn OpenGL:
 https://www.learnopengl.com
 
-Official OpenGL 4 Reference Documentation
+Official OpenGL 4 Reference Documentation:
 https://www.khronos.org/registry/OpenGL-Refpages/gl4/
 
-Official OpenGL Wiki
+Official OpenGL Wiki:
 https://www.khronos.org/opengl/wiki/
 
-Easy to Navigate OpenGL Function Documentation
+Easy to Navigate OpenGL Function Documentation:
 http://docs.gl/
 
-GLM Documentation
+GLM Documentation:
 https://glm.g-truc.net/0.9.9/index.html
 
-GLFW Documentation
+GLFW Documentation:
 https://www.glfw.org/
 
-Good place for advanced graphics theory
+Good place for advanced graphics theory:
 https://www.scratchapixel.com/
 
