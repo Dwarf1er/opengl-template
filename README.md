@@ -1,4 +1,4 @@
-# Lab 1 - Hello Window and Hello Triangle
+# 
 
 ## Build Instructions
 
